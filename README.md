@@ -1,7 +1,9 @@
 # ✦ Stellar Live Poll
 
 > **Real-time decentralized polling on Stellar blockchain**
-> Built with Soroban smart contracts · StellarWalletsKit · Next.js
+>![Stellar poll 2](https://github.com/user-attachments/assets/3907f43d-33fb-42be-932a-4aa732f961cd)
+ Built with Soroban smart contracts · StellarWalletsKit · Next.js
+![stellar poll 1](https://github.com/user-attachments/assets/d1f218e1-1965-4796-8a50-73e5ac06fb53)
 
 [![Stellar](https://img.shields.io/badge/Stellar-Testnet-0EA5E9?style=flat-square&logo=stellar)](https://stellar.org)
 [![Soroban](https://img.shields.io/badge/Soroban-Smart%20Contracts-6366F1?style=flat-square)](https://soroban.stellar.org)
