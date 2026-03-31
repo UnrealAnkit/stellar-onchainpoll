@@ -10,7 +10,7 @@
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
-    "@creit.tech/stellar-wallets-kit": "^0.9.2",
+    "@creit.tech/stellar-wallets-kit": "^2.1.0",
     "@stellar/stellar-sdk": "^15.0.1",
     "canvas-confetti": "^1.9.3",
     "clsx": "^2.1.1",
