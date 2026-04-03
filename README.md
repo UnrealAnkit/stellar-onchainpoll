@@ -1,6 +1,16 @@
 # ✦ Stellar Live Poll
 
  Built with Soroban smart contracts · StellarWalletsKit · Next.js
+
+ Built by **Ankit** for the Stellar Journey to Mastery — Yellow Belt submission.
+
+- GitHub: [![poll1](https://github.com/user-attachments/assets/9fae2ab7-190d-4c78-ad19-61f49006a356)
+om/youruser![poll1](https://github.com/user-attachments/assets/820f74a9-0cfe-4c6c-99ac-3b362e1741c1)
+name](https://github.com/yourusername)
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+![l3 poll](https://github.com/user-attachments/assets/206fb7ea-6250-4c77-b45d-4a387964c41d)
+![l2 poll](https://github.com/user-attachments/assets/45e718a0-9aac-4c03-bb72-16009298aa86)
+
 ![stellar poll 1](https://github.com/user-attachments/assets/d1f218e1-1965-4796-8a50-73e5ac06fb53)
 
 [![Stellar](https://img.shields.io/badge/Stellar-Testnet-0EA5E9?style=flat-square&logo=stellar)](https://stellar.org)
@@ -238,12 +248,6 @@ stellar-live-poll/
 
 ## 👤 Author
 
-Built by **Ankit** for the Stellar Journey to Mastery — Yellow Belt submission.
-
-- GitHub: [github.c![poll1](https://github.com/user-attachments/assets/9fae2ab7-190d-4c78-ad19-61f49006a356)
-om/youruser![poll1](https://github.com/user-attachments/assets/820f74a9-0cfe-4c6c-99ac-3b362e1741c1)
-name](https://github.com/yourusername)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
 
