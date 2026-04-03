@@ -1,6 +1,7 @@
 # ✦ Stellar Live Poll
 
-> **Real-t![stellar![stellar 4](https://github.com/user-attachments/assets/2e8a5ef2-cea1-4a27-9587-c881abae07b8)
+> **Real-t![stel![poll1](https://github.com/user-attachments/assets/2d123bec-486b-459e-b61a-b3a854ba6808)
+lar![stellar 4](https://github.com/user-attachments/assets/2e8a5ef2-cea1-4a27-9587-c881abae07b8)
  poll 3](https://github.com/user-attachments/assets/9ef82d1c-43b9-4138-aad5-f9a0aa4b86ce)
 ime decentralize![stellar 4](https://github.com/user-attachments/assets/8d740cac-0db0-4253-9743-5ce21ca53de5)
 d polling on Stellar blockchain**
