@@ -246,7 +246,9 @@ stellar-live-poll/
 
 Built by **Ankit** for the Stellar Journey to Mastery — Yellow Belt submission.
 
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- GitHub: [github.c![poll1](https://github.com/user-attachments/assets/9fae2ab7-190d-4c78-ad19-61f49006a356)
+om/youruser![poll1](https://github.com/user-attachments/assets/820f74a9-0cfe-4c6c-99ac-3b362e1741c1)
+name](https://github.com/yourusername)
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
