@@ -1,10 +1,5 @@
 # ✦ Stellar Live Poll
 
-[stellar 4](https://github.com/user-attachments/assets/2e8a5ef2-cea1-4a27-9587-c881abae07b8)
- poll 3](https://github.com/user-attachments/assets/9ef82d1c-43b9-4138-aad5-f9a0aa4b86ce)
-(https://github.com/user-attachments/assets/8d740cac-0db0-4253-9743-5ce21ca53de5)
-d polling on Stellar blockchain**
->![Stellar poll 2](https://github.com/user-attachments/assets/3907f43d-33fb-42be-932a-4aa732f961cd)
  Built with Soroban smart contracts · StellarWalletsKit · Next.js
 ![stellar poll 1](https://github.com/user-attachments/assets/d1f218e1-1965-4796-8a50-73e5ac06fb53)
 
